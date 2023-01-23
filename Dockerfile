@@ -1,1 +1,1 @@
-From ubuntu
+FROM python:3
